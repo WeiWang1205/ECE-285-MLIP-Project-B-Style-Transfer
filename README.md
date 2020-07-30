@@ -1,6 +1,6 @@
 # ECE285 Final Project B - Style Transfer
 ## Description
-This is project Style Transfer developed by team Team Name. This branch is the implementation of Cycle-GAN.
+This is project Style Transfer developed by team "Team Name" (Wei Wang, Yuting Jiang, Tianyu Zhao). This branch is the implementation of Cycle-GAN.
 
 ## Requirement
 To run the demo, open cyclegan/demo.ipynb with jupyter notebook on a GPU node. It will automatically generate the transfer results of all 4 differenet styles mentioned in the report. Note that every checkpoint in cyclegan/output is needed.
